@@ -5,7 +5,7 @@
  * @author Vincent Zhu <vincentm@ldproducts.com>
  */
 
-// namespace Classes\Ldapi\SmartyStreets;
+namespace huynguye\smartystreets;
 
 class SmartyStreets
 {
