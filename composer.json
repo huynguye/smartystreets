@@ -1,0 +1,8 @@
+{
+    "name": "huynguye/smartystreets",
+    "autoload": {
+            "psr-0" : {
+                        "huynguye\\smartystreets" : "src"
+                    }
+        }
+}
